@@ -1,0 +1,38 @@
+address,lat,long,accuracy
+AZ Alma Campus Sijsele Gentsesteenweg 132 8340 Sijsele,51.2015613,3.3212461,sublocality_level_1
+AZ Damiaan Campus H. Hart Gauwelozestraat 100 8400 Oostende,51.21543,2.928656,locality
+AZ Damiaan Campus Sint-Jozef Nieuwpoortsesteenweg 57 8400 Oostende,51.2232243,2.9060107,hospital
+AZ Groeninge Campus O.-L Vrouw Reepkaai 4 8500 Kortrijk,50.8297112,3.2609213,street_address
+AZ Groeninge Campus Maria's Voorzienigheid Loofstraat 43 8500 Kortrijk,50.8199066,3.2678643,street_address
+AZ Groeninge Campus Sint-Maarten Burg. Vercruysselaan 5 8500 Kortrijk,50.8194894,3.2577076,sublocality_level_1
+AZ Groeninge Campus Sint-Niklaas Houtmarkt 33 8500 Kortrijk,50.8291529,3.271482,street_address
+AZ Koningin Fabiola Dr. F. Verhaeghestraat 1 8370 Blankenberge,51.3084341,3.1252809,hospital
+AZ OLV Ter Linden Graaf Jansdijk 162 8300 Knokke-Heist,51.3384271,3.3032935,street_address
+AZ Sint-Lucas St. Lucaslaan 29 8310 Brugge,51.1851255,3.2491382,hospital
+AZ Sint-Jan Brugge - St-Fransiscus Xaverius Spaanse Loskaai 1 8000 Brugge,51.2130191,3.2249303,street_address
+AZ Sint-Jan Brugge - Site St-Jan A. Ruddershove 10 8000 Brugge,51.2206661,3.1933863,street_address
+Belgisch Zee-Instituut Voor Orthopedie Zeedijk 286-288 8400 Oostende,51.2134802,2.8732418,street_address
+CIGB OLV van Vrede Bruggestraat 57/59 8930 Menen,50.7970735,3.121811,street_address
+Gezondheidszorg Heilige Familie Groeningepoort 4 8500 Kortrijk,50.8291372,3.2755195,hospital
+H-Hartziekenhuis Campus Wilgenstraat Wilgenstraat 2 8800 Roeselare,50.9387463,3.121263,street_address
+H-Hartziekenhuis Campus Bruggestraat Bruggestraat 564-566 8930 Menen,50.8143669,3.1205838,street_address
+H-Hartziekenhuis Campus Rijselstraat Rijselstraat 71-73 8930 Menen,50.7931213,3.1227535,hospital
+H-Hartziekenhuis Campus Westlaan Westlaan 123 8800 Roeselare,50.9389494,3.1168419,street_address
+Henri Serruys Ziekenhuis Kairostraat 84 8400 Oostende,51.22237,2.913605,street_address
+Kliniek OLV Van Lourdes Vijfseweg 150 8790 Waregem,50.899529,3.4168568,hospital
+Koningin Elisabeth Instituut De Wittelaan 1 8670 Oostduinkerke,51.1401449,2.6967222,hospital
+Neurologische Kliniek Sint-Jozef Boterstraat 6 8740 Pittem,50.9832849,3.2477446,street_address
+Psychiatrisch Centrum St-Amandus Reigerlo 10 8730 Beernem,51.1152576,3.3194122,hospital
+Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw Koning Albert I-laan 8 8200 Brugge,51.1976371,3.2107433,hospital
+Psychiatrisch Ziekenhuis Heilig Hart Poperingseweg 16 8900 Ieper,50.8492151,2.866792,hospital
+Psycho-Therapeutisch Centrum Rustenburg Oude Oostendsesteenweg 43 8000 Brugge,51.2093488,3.2247013,sublocality_level_1
+Regionaal Ziekenhuis Zwarte Zusters Rijselstraat 85 8900 Ieper,50.8473465,2.8883966,street_address
+Regionaal Mariaziekenhuis Oostlaan 11 8970 Poperinge,50.8559031,2.7443732,street_address
+Revalidatiecentrum Ten Bos Meensesteenweg 70 8870 Izegem,50.9083233,3.2046391,street_address
+Sint-Andriesziekenhuis Krommewalstraat 9-11 8700 Tielt,51.0015699,3.3223649,hospital
+Sint-Augustinus Kliniek Iepersesteenweg 100 8630 Veurne,51.0731945,2.6680059,sublocality_level_1
+Sint-Janhospitaal Steenakker 30 8940 Wervik,50.7801737,3.043793,street_address
+Sint-Jozefkliniek Roeselaarsestraat 47 8870 Izegem,50.9185842,3.2111884,street_address
+Sint-Rembertziekenhuis St.-Rembertlaan 21 8820 Torhout,51.0699612,3.0971896,hospital
+Stedelijk Ziekenhuis Brugsesteenweg 90 8800 Roeselare,50.9530542,3.1217907,hospital
+Verpleegtehuis Godvelde Hospitaalstraat 29 8610 Kortemark,51.030763,3.0415405,street_address
